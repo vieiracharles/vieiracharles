@@ -4,7 +4,7 @@ Olá sou Charles Vieira!
 Desenvolvedor Front-End | Programador Front-End
 <br>
 <br>
-Atualmente em transição de carreira de corretor de imóveis para área da tecnologia.
+Atualmente em transição de carreira de corretor de imóveis para área  tecnológia.
 <br>
 <br>
 Em formação na DevClub, adquirindo experiência, seguindo a trilha FullStack, usando tecnologias HTML, CSS, JavaScript e demais linguagens de programação.
