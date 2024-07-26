@@ -4,16 +4,16 @@ Olá sou Charles Vieira!
 Desenvolvedor Front-End | Programador Front-End
 <br>
 <br>
-Atualmente em transição de carreira de corretor de imóveis para área  tecnológia.
+Atualmente em transição de carreira de corretor de imóveis para área  para a área de Desenvolvimento Web.
 <br>
 <br>
-Em formação na DevClub, adquirindo experiência, seguindo a trilha FullStack, usando tecnologias HTML, CSS, JavaScript e demais linguagens de programação.
+Em formação no DevClub, adquirindo experiência na execução e desenvolvimento de projetos acadêmicos, utilizando tecnologias como: HTML, CSS e linguagem Javascript
 <br>
 <br>
-Como freelancer, meu primeiro trabalho, para foi para um Studio de Beleza El Shaday usando tecnologia HTML e CSS.
+Como freelancer, meu primeiro trabalho, executei um site para Studio de Beleza El Shaday usando tecnologia: HTML e CSS.
 <br>
 <br>
-Experiência adquirida pela formação no DevClub, em criação de projetos que virão para o repositório, sendo tecnologias HTML, CSS, JavaSript e demais linguagens de programação, onde as experiências serão acrescentadas.
+Garantindo, assim, o alinhamento com as últimas tendências e ferramentas na área de desenvolvimento web. Gerando conhecimento e habilidades, em compreender as necessidades dos usuários e clientes, executando soluções eficientes. Nesta formação, trilhando o caminho em tornar-se um desenvolvedor Full Stack.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
